@@ -1,0 +1,7 @@
+{
+  "id": "1",
+  "user_id": "user1",
+  "title": "My First Todo",
+  "description": "This is my first todo item",
+  "status": "pending"
+}
